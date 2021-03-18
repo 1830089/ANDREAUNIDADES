@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.enc{
+    background-color: white;
+    width: 900px;
+    height: 1920px;
+    margin: auto;
+}
+header{
+    background-color: black;
+    color: #FFFFFF;
+    padding: 45px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.logo{
+    padding-left: 0px;
+}
+
+.titulo{
+    margin-top: 15px;
+    position: relative;
+    float: right;
+}
+
+nav{
+    background-color: rgb(212, 148, 83);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    height: 30px;
+}
+nav ul li{
+    display: inline;	
+}
+nav ul li a{
+    margin-left: 60px;
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+.allinfo{
+    display: flex;
+}
+
+.izq{
+    width: 450px;
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-right: 50px;
+}
+
+h3{
+    margin-top: 30px;
+}
+
+h2{
+    margin-top: 10px;
+    color: rgb(68, 67, 67);
+}
+
+
+.barrot{
+    display: flex;  
+}
+
+
+.imgart{
+    margin-top: 10px;
+    border-radius: 20px;
+    float: left;
+    background-color: black;
+}
+
+.parrar{
+    float: right;
+    font-size: 14px;
+    margin-right: 12px;
+}
+
+.bar{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.art{
+    margin-left: 20px;
+    margin-top: 30px;
+    margin-right: 60px;
+}
+
+.imgarts{
+    border-radius: 15px;
+}
+
+.venue{
+    background-color:white;
+    height: 400px;
+}
+
+.imgven{
+    float: left;
+}
+
+.parr{
+    margin-left: 250px;
+    margin-right: 10px;
+}
+
+aside{
+    margin-top: 0px;  
+    width: 380px;
+    display: flex;
+    margin-right: 20px;
+}
+
+P{
+    margin-bottom: 10px;
+}
+
+footer{
+    background-color: rgb(56, 47, 47);
+    color: white;
+    padding: 50px;
+    display: flex;
+    justify-content: left;
+}
+
+.pie{
+    margin-top: 0px;
+    float: left;
+    display: flex;
+    width: 350px;
+    font-size: 10px;
+}
+
+.about{
+    float: right;
+    margin-left: 60px;
+    font-size: 15px;
+    margin-right: 0px;
+}

@@ -1,0 +1,47 @@
+table {
+    width: 100%;
+    border: 1px solid #000;
+ }
+ th, td {
+    width: 25%;
+    text-align: left;
+    vertical-align: top;
+    border: 1px solid #000;
+    border-collapse: collapse;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #fbb1bd;
+    color: #ff0a54;
+    padding: 0.3em;
+    caption-side: bottom;
+ }
+ caption {
+    padding: 0.3em;
+ }
+ a{
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+     color: white;
+     background-color: #ff7900;
+ }
+ #boton{
+    text-align: center;
+ }
+ #formulario{
+     text-align: center;
+ }
+ h1{
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     color: tomato;
+     text-align: center;
+ }
+ form{
+     font-family: Arial, Helvetica, sans-serif;
+     
+ }
+ body{
+    background-color: #fde2e4;
+}
+label{
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #ff7900;
+}

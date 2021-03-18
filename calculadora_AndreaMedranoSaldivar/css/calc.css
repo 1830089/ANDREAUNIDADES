@@ -1,0 +1,84 @@
+body{
+	width: 100%;
+	margin: auto;
+	background-color: #fde2e4;
+}
+
+.calc{
+	display: block;
+	margin: 0 auto;
+	padding: 20px;
+	background-color: #ef476f;
+	width: 400px;
+	height: 500px;
+	border-radius: 25px;
+}
+
+span{
+	font-family: Arial;
+}
+
+.calc td button{
+	display: block;
+	width: 85px;
+	height: 70px;
+	font-size: 25px;
+}
+
+button:hover{
+	background-color: #ffd166;
+}
+
+#reset:hover{
+	background-color: red;
+}
+#igual:hover{
+	background-color: #ffd166;
+}
+#suma:hover{
+	background-color: #ffd166;
+}
+#uno:hover{
+	background-color: #ffd166;
+}
+#dos:hover{
+	background-color: #ffd166;
+}
+#tres:hover{
+	background-color: #ffd166;
+}
+#cuatro:hover{
+	background-color: #ffd166;
+}
+#cinco:hover{
+	background-color: #ffd166;
+}
+#seis:hover{
+	background-color: #ffd166;
+}
+#siete:hover{
+	background-color: #ffd166;
+}
+#ocho:hover{
+	background-color: #ffd166;
+}
+#nueve:hover{
+	background-color: #ffd166;
+}
+#cero:hover{
+	background-color: #ffd166;
+}
+
+
+#resu{
+	display: block;
+	text-align: center;
+	font-size: 40px;
+	margin-bottom: 50px;
+	width: 350px;
+	height: 100px;
+	line-height: 100px;
+	background-color: white;
+	border-radius: 25px;
+	overflow-y: scroll;
+}

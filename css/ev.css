@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.principal{
+    background-color: pink;
+    width: 960px;
+    height: 910px;
+    margin: auto;
+}
+header{  
+    background-color: rgb(168, 0, 168);
+    color: #FFFFFF;
+    font-size: large;
+    padding: 45px;
+    display: flex;
+    justify-content: space-around;
+}
+
+main{
+    display: flex;
+
+}
+
+.int{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+.pro{
+    display: flex;
+    margin-top: 10px;
+
+}
+
+.ima{
+    display: flex;
+}
+
+.text{
+    margin-left: 20px;
+    text-align: justify;
+}
+
+h2{
+    margin-top: 30px;
+}
+
+aside{
+    margin-top: 15px;
+    display: flex;
+    background-color: steelblue;
+    width: 600px;
+}
+
+.as{
+display: block;
+}
+
+footer{
+    margin-top: 20px;
+    display: flex;
+    padding: 50px;
+    background-color: purple;
+}
+
+h4{
+    text-align: center;
+}

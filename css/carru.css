@@ -1,0 +1,39 @@
+
+body{
+	background-color: #ef476f;
+}
+.contenido{
+	margin: auto;
+	width: 70%;
+	height: 600px;
+}
+
+.botones{
+	width: 100%;
+	padding-left: 40%;
+	padding-top: 20px;
+}
+
+#foto{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 80%;
+	width: 100%;
+	border-radius: 10%;
+	padding-top: 50px;
+}
+
+.boton{
+	background-color: #ffb497f8;
+	border-radius: 15px;
+	color: #ef476f;
+	text-decoration: none;
+	border: 2px solid #fde2e4;
+	width: 140px;
+	height: 30px;
+}
+
+.rep:hover{
+    background-color: #ef476f;
+}

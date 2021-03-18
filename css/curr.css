@@ -1,0 +1,34 @@
+h1{
+    font-family: yusei -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: #ef476f;
+    color: #ffd166;
+}
+th{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #fbb1bd;
+    color: #ff0a54;
+}
+td{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        background-color: #ffd6ba;
+        color: #ff7900;
+}
+nav{
+    background-color: #fbb1bd;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 40px;
+ }
+nav ul li{
+    display: inline;	
+}
+nav ul li a{
+    margin-left: 100px;
+	text-decoration: none;
+	color: #FFFFFF;
+}
+body{
+    background-color: #fde2e4;
+}
+.ref{
+    text-decoration: underline;
+}
